@@ -1,5 +1,6 @@
 Samuel Nankervis
 September 14th, 2026
+Math 4400, Homework 1
 Dr. Han
 
 
