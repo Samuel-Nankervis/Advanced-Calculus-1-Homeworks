@@ -1,1 +1,2 @@
 This repository contains several homework assignments from my Advanced Calculus 1 class. These mostly include proofs for calculus concepts. I used [Obsidian](https://obsidian.md/help/install) to create many of the markdown files and used the [Latex Suite](https://community.obsidian.md/plugins/obsidian-latex-suite) plugin to help with LaTex formatting. Feel free to use and redistribute any of the proofs in this repository, although note that some proofs may include mistakes.
+$\{ x | x\in a, x \notin b\}$

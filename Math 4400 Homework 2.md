@@ -2,6 +2,7 @@ Samuel Nankervis
 September 18th, 2026
 Math 4400, Homework 2
 Dr. Han
+Score: 9/10
 
 Questions from 1.3
 

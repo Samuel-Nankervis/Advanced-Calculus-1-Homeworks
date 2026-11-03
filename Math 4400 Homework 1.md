@@ -2,7 +2,7 @@ Samuel Nankervis
 September 14th, 2026
 Math 4400, Homework 1
 Dr. Han
-
+Score: 10/10
 
 Exercises for 1.1:
 
